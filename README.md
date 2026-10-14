@@ -15,7 +15,7 @@ I built this project to get hands-on experience with **`struct` data structures*
 
 ---
 
-## 🛠️ Build & Run
+## Build & Run
 
 Compile using any standard C compiler (like `gcc`):
 
